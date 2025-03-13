@@ -1,0 +1,14 @@
+C:\Users\shekh\2.1P\InPersonCheck2.1\bin\Debug\net8.0\InPersonCheck2.1.exe
+C:\Users\shekh\2.1P\InPersonCheck2.1\bin\Debug\net8.0\InPersonCheck2.1.deps.json
+C:\Users\shekh\2.1P\InPersonCheck2.1\bin\Debug\net8.0\InPersonCheck2.1.runtimeconfig.json
+C:\Users\shekh\2.1P\InPersonCheck2.1\bin\Debug\net8.0\InPersonCheck2.1.dll
+C:\Users\shekh\2.1P\InPersonCheck2.1\bin\Debug\net8.0\InPersonCheck2.1.pdb
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.AssemblyInfoInputs.cache
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.AssemblyInfo.cs
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.csproj.CoreCompileInputs.cache
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.dll
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\refint\InPersonCheck2.1.dll
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.pdb
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\InPersonCheck2.1.genruntimeconfig.cache
+C:\Users\shekh\2.1P\InPersonCheck2.1\obj\Debug\net8.0\ref\InPersonCheck2.1.dll

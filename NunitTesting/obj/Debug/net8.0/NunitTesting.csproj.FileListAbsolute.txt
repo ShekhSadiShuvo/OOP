@@ -1,0 +1,14 @@
+C:\Users\shekh\2.1P\NunitTesting\bin\Debug\net8.0\NunitTesting.exe
+C:\Users\shekh\2.1P\NunitTesting\bin\Debug\net8.0\NunitTesting.deps.json
+C:\Users\shekh\2.1P\NunitTesting\bin\Debug\net8.0\NunitTesting.runtimeconfig.json
+C:\Users\shekh\2.1P\NunitTesting\bin\Debug\net8.0\NunitTesting.dll
+C:\Users\shekh\2.1P\NunitTesting\bin\Debug\net8.0\NunitTesting.pdb
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.AssemblyInfoInputs.cache
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.AssemblyInfo.cs
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.csproj.CoreCompileInputs.cache
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.dll
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\refint\NunitTesting.dll
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.pdb
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\NunitTesting.genruntimeconfig.cache
+C:\Users\shekh\2.1P\NunitTesting\obj\Debug\net8.0\ref\NunitTesting.dll
