@@ -1,0 +1,14 @@
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\bin\Debug\net8.0\CaseStudy.exe
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\bin\Debug\net8.0\CaseStudy.deps.json
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\bin\Debug\net8.0\CaseStudy.runtimeconfig.json
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\bin\Debug\net8.0\CaseStudy.dll
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\bin\Debug\net8.0\CaseStudy.pdb
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.AssemblyInfo.cs
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.dll
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\refint\CaseStudy.dll
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.pdb
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\CaseStudy.genruntimeconfig.cache
+C:\Users\shekh\3-1\OOP\2.4P\CaseStudy\obj\Debug\net8.0\ref\CaseStudy.dll
