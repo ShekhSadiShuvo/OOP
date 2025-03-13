@@ -1,0 +1,14 @@
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\bin\Debug\net8.0\ClockClass.exe
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\bin\Debug\net8.0\ClockClass.deps.json
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\bin\Debug\net8.0\ClockClass.runtimeconfig.json
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\bin\Debug\net8.0\ClockClass.dll
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\bin\Debug\net8.0\ClockClass.pdb
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.AssemblyInfoInputs.cache
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.AssemblyInfo.cs
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.csproj.CoreCompileInputs.cache
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.dll
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\refint\ClockClass.dll
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.pdb
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ClockClass.genruntimeconfig.cache
+C:\Users\shekh\3-1\OOP\3.1P\ClockClass\obj\Debug\net8.0\ref\ClockClass.dll
